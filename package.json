@@ -1,0 +1,23 @@
+{
+  "name": "spotify_tests",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "npm test"
+  },
+  "author": "Patrick Cleary",
+  "license": "ISC",
+  "dependencies": {
+    "cytoscape": "^3.14.2",
+    "cytoscape-euler": "^1.2.2",
+    "fs": "0.0.1-security",
+    "hashmap": "^2.4.0",
+    "plotly": "^1.0.6",
+    "queue": "^6.0.1",
+    "spotify-web-api-js": "^1.2.0",
+    "spotify-web-api-node": "^4.0.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
